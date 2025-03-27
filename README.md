@@ -23,3 +23,7 @@
 # comandos mas usados
 - php artisan make:controller CategoriaController
 - php artisan make:model Categoria
+
+
+NOMBRE: LESLIE KARINA VIRTO CUEVA
+https://isise-my.sharepoint.com/:v:/g/personal/lvirto_isise_edu_pe/EQlliuQHiuxJlAHBU8sZeOsBHcKfZp__mtLvn1K54x6Vsw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=lJjHyM
